@@ -1,0 +1,6 @@
+Thu Feb 12 21:18:48 EST 2015|Invalid Number
+Thu Feb 12 21:18:48 EST 2015|For input string: "h"
+Thu Feb 12 21:18:52 EST 2015|Invalid Number
+Thu Feb 12 21:18:52 EST 2015|For input string: "n"
+Thu Feb 12 21:22:38 EST 2015|Invalid username/pin was entered
+Thu Feb 12 21:26:10 EST 2015|Invalid username/pin was entered: L(nmar), P(8125)
